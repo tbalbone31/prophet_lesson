@@ -10,4 +10,12 @@ Attendees will need some basic understanding of python, Jupyter notebooks, Anaco
 
 A new python environment can be set up using the instructions for installing environments from a file (https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#creating-an-environment-from-an-environment-yml-file) and the file prophet_lesson.yml in the Github repository.
 
+### Data
+
+You will need the following data:
+
+LCC_footfall_cleaned_2021.csv from https://data.cdrc.ac.uk/dataset/leeds-city-council-footfall-camera-aggregated-data.  Put this in the data/inputs folder
+
+The regressor data are in the the data/inputs folder already
+
 Please feel free to reach out should there be any issues.
