@@ -14,4 +14,6 @@ A new python environment can be set up using the instructions for installing env
 
 The data are in the data/inputs folder already, please unzip the two archives into this folder.
 
+Leeds City Council Footfall Camera data comes from an aggregated and cleaned dataset produced by me for the CDRC and can be downloaded for free here should the copy on github not work for some reason: https://data.cdrc.ac.uk/dataset/leeds-city-council-footfall-camera-aggregated-data
+
 Please feel free to reach out should there be any issues.
