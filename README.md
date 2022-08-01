@@ -12,10 +12,6 @@ A new python environment can be set up using the instructions for installing env
 
 ### Data
 
-You will need the following data:
-
-LCC_footfall_cleaned_2021.csv from https://data.cdrc.ac.uk/dataset/leeds-city-council-footfall-camera-aggregated-data.  Put this in the data/inputs folder
-
-The regressor data are in the the data/inputs folder already
+The data are in the data/inputs folder already, please unzip the two archives into this folder.
 
 Please feel free to reach out should there be any issues.
