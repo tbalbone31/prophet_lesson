@@ -1,6 +1,6 @@
 # Time Series and Prophet Forecasting
 
-This repo contains code and a html file to support additional independent learning on the Time Series and Prophet Forecasting introductory lesson.
+This repo contains code and a html file to support additional independent learning on the Time Series and Prophet Forecasting introductory lesson.  There are also some notebook slides that offer a brief overview of the content of the taught session and notebook.
 
 Whilst the code is not essential to meet the learning objectives of the session and not required during the delivery, it will help consolidate and expand your understanding of the concepts covered and help build your experience using Python and Facebook Prophet to undertake some simple time series modelling.
 
